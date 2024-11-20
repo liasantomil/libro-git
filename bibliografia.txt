@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Harry Potter y la piedra filosofal, J.K. Rowling; Harry Potter y el cáliz de fuego, J.K. Rowling
+=======
+Caperucita Roja, Trina SchartHyman, Charles Perrault
+El Rey León, Rob Minkoff, Roger Allers
+>>>>>>> Stashed changes
